@@ -16,7 +16,7 @@ S1,SW_MX_HS_CPG151101S11_1u,1,Keyswitch,
 "S10, S11, S13, S14, S15, S19, S2, S22, S23, S24, S25, S3, S4, S5, S6, S7, S9",SW_MX_HS_CPG151101S11_1u,17,Keyswitch,CPG151101S11-16
 "S12, S16, S17",SW_MX_HS_CPG151101S11_1.5u,3,Keyswitch,CPG151101S11-16
 SW1,Button_TL3342,1,SW_Push,C115351
-SW2,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles,1,RotaryEncoder_Switch,
+SW2,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles,1,RotaryEncoder_Switch,
 U1,Package_LQFP-48_7x7mm_P0.5,1,STM32F072CBT6,C81720
 U3,Voltage_SOT-23,1,XC6206,C5446
 U4,ESD_SOT-23-6,1,USBLC6-2SC6,C2827654
