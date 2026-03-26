@@ -241,7 +241,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "V1.0.0"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -648,7 +648,7 @@
       {
         "filename": "random ass keyboard.kicad_sch",
         "name": "random ass keyboard",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "92054fa3-5ad0-458e-bd73-acbcf8d11243"
       }
     ],
     "used_designators": "",
@@ -657,7 +657,7 @@
   "sheets": [
     [
       "92054fa3-5ad0-458e-bd73-acbcf8d11243",
-      "Root"
+      "random ass keyboard"
     ]
   ],
   "text_variables": {},
