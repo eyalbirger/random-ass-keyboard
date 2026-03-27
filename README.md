@@ -5,7 +5,7 @@ to use this you will need to program it via qmk, and solder the pcb yourself. yo
 
 BOM:
 
-| quantity | name | value |
+| quantity | name | value/lcsc |
 |:--------:|:----:|:------|
 | 21 | hot swap sockets | . |
 | 1 | ec11 | . |
