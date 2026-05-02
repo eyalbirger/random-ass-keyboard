@@ -23,6 +23,13 @@ BOM:
 | 12 | led | ws2812b |
 | 1 | stm32 | stm32f072cbt6 |
 | 1 | voltage regulator | XC6206 |
-| 1 | usb c | USB_C_HRO_TYPE-C-31-M-12 |
-
-
+| 1 | usb c | USB_C_HRO_TYPE-C-31-M-12 |  
+---
+  
+this should cost about 150$
+![alt text](image-1.png)  
+this is the board.
+you should have the pcb seperated from the plate and back.
+you should assemble them with m2 screws and then put the switches in.
+![alt text](image.png)  
+qmk firmware will be coming shortly
